@@ -1,0 +1,12 @@
+n_round: 10000
+n_actions: 10
+dim_context: 5
+dim_context_unobserved: 0
+dim_action: 5
+dim_action_unobserved: 0
+beta_log: -5
+reward_std: 2.5
+n_def_actions: 0
+random_state: 12345
+n_bootstrap_set: 10
+bootstrap_set_size: 2000
